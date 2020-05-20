@@ -18,3 +18,4 @@
   ### Branch Commands
   * `git branch branchName` - Create branch `branchName`
   * `git branch checkout branchName` - Go to branch `branchName`
+  * `git checkout -b branchName` - Create and checkout `branchName`
